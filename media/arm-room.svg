@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" role="img" aria-label="Arm Room">
+<defs>
+  <radialGradient id="bg" cx=".4" cy=".32" r=".86"><stop stop-color="#354d4b"/><stop offset="1" stop-color="#122125"/></radialGradient>
+  <linearGradient id="arm" x2=".9" y2="1"><stop stop-color="#d0f7e3"/><stop offset=".52" stop-color="#8dcab0"/><stop offset="1" stop-color="#4d8779"/></linearGradient>
+  <linearGradient id="shell" x2="1" y2=".6"><stop stop-color="#eeca99"/><stop offset=".55" stop-color="#d5a875"/><stop offset="1" stop-color="#977059"/></linearGradient>
+</defs>
+<rect width="320" height="320" rx="46" fill="url(#bg)"/>
+<g transform="translate(22 23)" stroke="#a3e4c9" stroke-width="3.4" fill="none" stroke-linejoin="round"><path d="m3 3 23 1 2 7-11 18-13-2 5-17z"/><path d="m7 11 17 2"/></g>
+<g transform="rotate(20 159 162)" stroke-linejoin="round">
+  <path d="M122 57q5-23 30-24 42-1 56 31 5 18-3 42l-14 40-7 25-38-4-11-34q-22-36-13-76z" fill="url(#arm)"/>
+  <path d="m143 140 45-3 2 24-15 74-7 23 3 15-7 13-13 2-24-8-5-13 9-34z" fill="url(#arm)"/>
+  <path d="m126 122 26 5 28-3 25-7-1 33-13 22-17 69-13 9-36-7 9-73-10-18z" fill="url(#shell)" stroke="#edc495" stroke-width="3.7"/>
+  <path d="m130 146 22 7 36-4 15-11m-63 21-7 68 22 7 15-6 16-68m-32-9-9 71" fill="none" stroke="#785e4b" stroke-width="3"/>
+</g></svg>

@@ -1,0 +1,1 @@
+0.1.0 Fit forearm, upper-arm and shoulder armor with guided measurements, a slide-on hand-entry preview and shoulder poses. Check clearances, compare a chest reference, save named fit versions and open fitted pieces in OrcaSlicer.
